@@ -1,0 +1,5 @@
+Este es archivo que contiene la clase de Git
+
+incluye lineas de comandos y como utilizar el GitBash
+
+Estaremos realizando nuestro 1er commit
