@@ -1,7 +1,7 @@
 Este es archivo que contiene la clase de Git
 
-incluye lineas de comandos, tales como cat, touch, status
-
-como utilizar el GitBash
+incluye lineas de comandos y como utilizar el GitBash
 
 Estaremos realizando nuestro 1er commit
+
+git checkout master claseDeGit.txt para regresar a otra version
